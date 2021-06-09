@@ -4,6 +4,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+a{
+    color: black;
+}
+
 .header {
     min-height: 100vh;
     width: 100%;
@@ -231,6 +235,8 @@ h3{
 
 
 
-
+video{
+    padding-bottom: 100px;
+}
 
 
